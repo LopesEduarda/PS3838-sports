@@ -1,0 +1,1398 @@
+{
+  "sportId": 17,
+  "last": 1743601231722,
+  "leagues": [
+    {
+      "id": 8066,
+      "events": [
+        {
+          "id": 1607010761,
+          "periods": [
+            {
+              "lineId": 3024646422,
+              "number": 0,
+              "cutoff": "2025-04-03T18:25:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:28:34.507Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -103,
+                "away": -117
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010569,
+          "periods": [
+            {
+              "lineId": 3024461491,
+              "number": 0,
+              "cutoff": "2025-04-03T13:26:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:33:15.350Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -113,
+                "away": -107
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010763,
+          "periods": [
+            {
+              "lineId": 3024674203,
+              "number": 0,
+              "cutoff": "2025-04-03T18:36:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:38:38.467Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -109,
+                "away": -111
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010571,
+          "periods": [
+            {
+              "lineId": 3024461493,
+              "number": 0,
+              "cutoff": "2025-04-03T13:26:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:33:15.363Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -109,
+                "away": -111
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010570,
+          "periods": [
+            {
+              "lineId": 3024494725,
+              "number": 0,
+              "cutoff": "2025-04-03T17:41:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:41:05.290Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -104,
+                "away": -116
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010762,
+          "periods": [
+            {
+              "lineId": 3024555108,
+              "number": 0,
+              "cutoff": "2025-04-03T14:21:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:56:09.743Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -122,
+                "away": 101
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010765,
+          "periods": [
+            {
+              "lineId": 3024562325,
+              "number": 0,
+              "cutoff": "2025-04-03T13:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:58:24.240Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 105,
+                "away": -127
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010572,
+          "periods": [
+            {
+              "lineId": 3024472998,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:36:03.710Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -109,
+                "away": -111
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010764,
+          "periods": [
+            {
+              "lineId": 3024555120,
+              "number": 0,
+              "cutoff": "2025-04-03T17:52:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:56:09.840Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -133,
+                "away": 109
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010767,
+          "periods": [
+            {
+              "lineId": 3024562330,
+              "number": 0,
+              "cutoff": "2025-04-03T14:10:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:58:24.303Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -157,
+                "away": 128
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010766,
+          "periods": [
+            {
+              "lineId": 3024609665,
+              "number": 0,
+              "cutoff": "2025-04-03T18:14:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:16:15.930Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -126,
+                "away": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010305,
+          "periods": [
+            {
+              "lineId": 3024408931,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:20:59.060Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -127,
+                "away": 105
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010304,
+          "periods": [
+            {
+              "lineId": 3024545795,
+              "number": 0,
+              "cutoff": "2025-04-03T17:52:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:53:21.793Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -140,
+                "away": 115
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010307,
+          "periods": [
+            {
+              "lineId": 3024408933,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:20:59.090Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 106,
+                "away": -129
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010306,
+          "periods": [
+            {
+              "lineId": 3024396751,
+              "number": 0,
+              "cutoff": "2025-04-03T13:37:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:18:09.810Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -101,
+                "away": -120
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010181,
+          "periods": [
+            {
+              "lineId": 3024574519,
+              "number": 0,
+              "cutoff": "2025-04-03T18:03:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:03:26.800Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 114,
+                "away": -139
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010308,
+          "periods": [
+            {
+              "lineId": 3024418580,
+              "number": 0,
+              "cutoff": "2025-04-03T13:26:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:23:11.477Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -104,
+                "away": -116
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010183,
+          "periods": [
+            {
+              "lineId": 3024352579,
+              "number": 0,
+              "cutoff": "2025-04-03T13:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:08:08.070Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -106,
+                "away": -114
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010182,
+          "periods": [
+            {
+              "lineId": 3024581853,
+              "number": 0,
+              "cutoff": "2025-04-03T18:03:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:06:13.287Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -101,
+                "away": -120
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607030296,
+          "periods": [
+            {
+              "lineId": 3024461586,
+              "number": 0,
+              "cutoff": "2025-04-03T12:42:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:33:16.350Z",
+              "maxMoneyline": 3375,
+              "status": 1,
+              "moneyline": {
+                "home": -112,
+                "away": -108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010588,
+          "periods": [
+            {
+              "lineId": 3024494738,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:41:05.370Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 105,
+                "away": -127
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010591,
+          "periods": [
+            {
+              "lineId": 3024482592,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:38:17.307Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 102,
+                "away": -124
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010768,
+          "periods": [
+            {
+              "lineId": 3024568638,
+              "number": 0,
+              "cutoff": "2025-04-03T17:30:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:01:11.313Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -115,
+                "away": -105
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010771,
+          "periods": [
+            {
+              "lineId": 3024674210,
+              "number": 0,
+              "cutoff": "2025-04-03T18:36:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:38:38.637Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -145,
+                "away": 119
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010579,
+          "periods": [
+            {
+              "lineId": 3024473001,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:36:03.740Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -119,
+                "away": -102
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010578,
+          "periods": [
+            {
+              "lineId": 3024504529,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:43:18.907Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -113,
+                "away": -107
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010580,
+          "periods": [
+            {
+              "lineId": 3024482584,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:38:17.213Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -120,
+                "away": -101
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010413,
+          "periods": [
+            {
+              "lineId": 3024408945,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:20:59.217Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -131,
+                "away": 108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009581,
+          "periods": [
+            {
+              "lineId": 3024333986,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:03:04.720Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -107,
+                "away": -113
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009583,
+          "periods": [
+            {
+              "lineId": 3024333990,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:03:04.750Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 102,
+                "away": -124
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009582,
+          "periods": [
+            {
+              "lineId": 3024327301,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:00:53.493Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -108,
+                "away": -112
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010593,
+          "periods": [
+            {
+              "lineId": 3024525697,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:48:20.660Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -126,
+                "away": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010592,
+          "periods": [
+            {
+              "lineId": 3024494739,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:41:05.370Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -119,
+                "away": -102
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010595,
+          "periods": [
+            {
+              "lineId": 3024047850,
+              "number": 0,
+              "cutoff": "2025-04-03T18:58:00Z",
+              "moneylineUpdatedAt": "2025-04-02T10:42:38.860Z",
+              "maxMoneyline": 2250,
+              "status": 1,
+              "moneyline": {
+                "home": -104,
+                "away": -119
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010594,
+          "periods": [
+            {
+              "lineId": 3024516166,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:46:06.797Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -114,
+                "away": -106
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009592,
+          "periods": [
+            {
+              "lineId": 3024343677,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:05:55.280Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": 107,
+                "away": -130
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010301,
+          "periods": [
+            {
+              "lineId": 3024387424,
+              "number": 0,
+              "cutoff": "2025-04-03T12:42:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:15:57.607Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -117,
+                "away": -103
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009596,
+          "periods": [
+            {
+              "lineId": 3024352590,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:08:08.350Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -102,
+                "away": -119
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010303,
+          "periods": [
+            {
+              "lineId": 3024408929,
+              "number": 0,
+              "cutoff": "2025-04-03T13:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:20:59.013Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -112,
+                "away": -108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010302,
+          "periods": [
+            {
+              "lineId": 3024396742,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:18:09.763Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -103,
+                "away": -117
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607010174,
+          "periods": [
+            {
+              "lineId": 3024343695,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:05:56.093Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -121,
+                "away": -100
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009587,
+          "periods": [
+            {
+              "lineId": 3024574479,
+              "number": 0,
+              "cutoff": "2025-04-03T18:03:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:03:25.660Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -134,
+                "away": 110
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607009586,
+          "periods": [
+            {
+              "lineId": 3024327302,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:00:53.510Z",
+              "maxMoneyline": 4500,
+              "status": 1,
+              "moneyline": {
+                "home": -117,
+                "away": -103
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8067,
+      "events": [
+        {
+          "id": 1607096750,
+          "periods": [
+            {
+              "lineId": 3024633258,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:24:08.530Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": -114,
+                "away": -108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100046,
+          "periods": [
+            {
+              "lineId": 3024637300,
+              "number": 0,
+              "cutoff": "2025-04-03T11:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:25:28.080Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": 105,
+                "away": -130
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100079,
+          "periods": [
+            {
+              "lineId": 3024651682,
+              "number": 0,
+              "cutoff": "2025-04-03T13:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:30:23.453Z",
+              "maxMoneyline": 2500,
+              "status": 1,
+              "moneyline": {
+                "home": -111,
+                "away": -111
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100077,
+          "periods": [
+            {
+              "lineId": 3024649281,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:29:38.307Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": 113,
+                "away": -140
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607099939,
+          "periods": [
+            {
+              "lineId": 3024635773,
+              "number": 0,
+              "cutoff": "2025-04-03T12:42:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:24:59.847Z",
+              "maxMoneyline": 2500,
+              "status": 1,
+              "moneyline": {
+                "home": -121,
+                "away": -102
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100067,
+          "periods": [
+            {
+              "lineId": 3024643631,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:27:39.377Z",
+              "maxMoneyline": 2500,
+              "status": 1,
+              "moneyline": {
+                "home": 102,
+                "away": -126
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100064,
+          "periods": [
+            {
+              "lineId": 3024642256,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:27:07.970Z",
+              "maxMoneyline": 2500,
+              "status": 1,
+              "moneyline": {
+                "home": -119,
+                "away": -104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607096742,
+          "periods": [
+            {
+              "lineId": 3024619606,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:19:27.650Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -115,
+                "away": -107
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100068,
+          "periods": [
+            {
+              "lineId": 3024648110,
+              "number": 0,
+              "cutoff": "2025-04-03T13:04:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:29:09.197Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": -106,
+                "away": -116
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607096741,
+          "periods": [
+            {
+              "lineId": 3024621099,
+              "number": 0,
+              "cutoff": "2025-04-03T12:20:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:19:59.013Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": 101,
+                "away": -125
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100088,
+          "periods": [
+            {
+              "lineId": 3024654367,
+              "number": 0,
+              "cutoff": "2025-04-03T13:59:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:31:15.030Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -128,
+                "away": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100050,
+          "periods": [
+            {
+              "lineId": 3024641041,
+              "number": 0,
+              "cutoff": "2025-04-03T12:53:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:26:45.203Z",
+              "maxMoneyline": 3000,
+              "status": 1,
+              "moneyline": {
+                "home": -114,
+                "away": -108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607100081,
+          "periods": [
+            {
+              "lineId": 3024653094,
+              "number": 0,
+              "cutoff": "2025-04-03T13:26:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:30:49.793Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": -108,
+                "away": -114
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607096753,
+          "periods": [
+            {
+              "lineId": 3024634772,
+              "number": 0,
+              "cutoff": "2025-04-03T12:31:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:24:38.017Z",
+              "maxMoneyline": 2000,
+              "status": 1,
+              "moneyline": {
+                "home": -115,
+                "away": -107
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 234863,
+      "events": [
+        {
+          "id": 1607086280,
+          "periods": [
+            {
+              "lineId": 3024245223,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:38:48.687Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -127,
+                "away": 103
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086281,
+          "periods": [
+            {
+              "lineId": 3024247347,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:39:19.110Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -103,
+                "away": -120
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086273,
+          "periods": [
+            {
+              "lineId": 3024224796,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:33:53.647Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -110,
+                "away": -112
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086278,
+          "periods": [
+            {
+              "lineId": 3024267448,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:44:01.950Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -102,
+                "away": -121
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086279,
+          "periods": [
+            {
+              "lineId": 3024260847,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:42:29.037Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": 113,
+                "away": -140
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086235,
+          "periods": [
+            {
+              "lineId": 3024273512,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:45:29.673Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": 118,
+                "away": -147
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086232,
+          "periods": [
+            {
+              "lineId": 3024281436,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:47:26.110Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -118,
+                "away": -104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086236,
+          "periods": [
+            {
+              "lineId": 3024231030,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:35:17.350Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": 119,
+                "away": -149
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086237,
+          "periods": [
+            {
+              "lineId": 3024278198,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:46:37.140Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -104,
+                "away": -119
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086250,
+          "periods": [
+            {
+              "lineId": 3024218586,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:32:29.780Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -108,
+                "away": -114
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086249,
+          "periods": [
+            {
+              "lineId": 3024679122,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:40:23.423Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -159,
+                "away": 127
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086255,
+          "periods": [
+            {
+              "lineId": 3024222486,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:33:20.917Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -116,
+                "away": -106
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086242,
+          "periods": [
+            {
+              "lineId": 3024258346,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:41:55.643Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": 105,
+                "away": -130
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086241,
+          "periods": [
+            {
+              "lineId": 3024215302,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:31:41.947Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -107,
+                "away": -115
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086246,
+          "periods": [
+            {
+              "lineId": 3024236183,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:36:37.497Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -126,
+                "away": 102
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086244,
+          "periods": [
+            {
+              "lineId": 3024265478,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:43:32.827Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -109,
+                "away": -113
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086245,
+          "periods": [
+            {
+              "lineId": 3024263678,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:43:04.607Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -128,
+                "away": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086267,
+          "periods": [
+            {
+              "lineId": 3024679555,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:40:31.487Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -128,
+                "away": 104
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086270,
+          "periods": [
+            {
+              "lineId": 3024273008,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:45:23.033Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": 103,
+                "away": -127
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086014,
+          "periods": [
+            {
+              "lineId": 3024249520,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:39:52.300Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -133,
+                "away": 108
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086013,
+          "periods": [
+            {
+              "lineId": 3024254159,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:41:01.260Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -147,
+                "away": 118
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086003,
+          "periods": [
+            {
+              "lineId": 3024252496,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:40:34.287Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -126,
+                "away": 102
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086256,
+          "periods": [
+            {
+              "lineId": 3024275738,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:46:02.607Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -108,
+                "away": -114
+              }
+            }
+          ]
+        },
+        {
+          "id": 1607086257,
+          "periods": [
+            {
+              "lineId": 3024270555,
+              "number": 0,
+              "cutoff": "2025-04-04T16:15:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:44:51.440Z",
+              "maxMoneyline": 1500,
+              "status": 1,
+              "moneyline": {
+                "home": -137,
+                "away": 111
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

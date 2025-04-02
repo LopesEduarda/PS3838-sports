@@ -1,0 +1,68 @@
+{
+  "sportId": 15,
+  "last": 1743574532567,
+  "league": [
+    {
+      "id": 220795,
+      "name": "United Football League",
+      "events": [
+        {
+          "id": 1606934119,
+          "starts": "2025-04-06T16:00:00Z",
+          "home": "Arlington Renegades",
+          "away": "Houston Roughnecks",
+          "rotNum": "273",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589401287
+        },
+        {
+          "id": 1606907222,
+          "starts": "2025-04-06T00:00:00Z",
+          "home": "DC Defenders",
+          "away": "Memphis Showboats",
+          "rotNum": "271",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589401259
+        },
+        {
+          "id": 1606798674,
+          "starts": "2025-04-05T00:00:00Z",
+          "home": "Michigan Panthers",
+          "away": "Birmingham Stallions",
+          "rotNum": "269",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589401236
+        },
+        {
+          "id": 1606950339,
+          "starts": "2025-04-06T22:30:00Z",
+          "home": "St. Louis Battlehawks",
+          "away": "San Antonio Brahmas",
+          "rotNum": "275",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589401304
+        }
+      ]
+    }
+  ]
+}

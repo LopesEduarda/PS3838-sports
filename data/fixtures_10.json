@@ -1,0 +1,68 @@
+{
+  "sportId": 10,
+  "last": 1743540838560,
+  "league": [
+    {
+      "id": 6178,
+      "name": "Premier League",
+      "events": [
+        {
+          "id": 1606721220,
+          "starts": "2025-04-03T18:45:00Z",
+          "home": "Michael van Gerwen",
+          "away": "Gerwyn Price",
+          "rotNum": "2240",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589362769
+        },
+        {
+          "id": 1606703478,
+          "starts": "2025-04-03T17:15:00Z",
+          "home": "Nathan Aspinall",
+          "away": "Stephen Bunting",
+          "rotNum": "2234",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588038534
+        },
+        {
+          "id": 1606713152,
+          "starts": "2025-04-03T18:15:00Z",
+          "home": "Chris Dobey",
+          "away": "Luke Littler",
+          "rotNum": "2238",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588040460
+        },
+        {
+          "id": 1606713116,
+          "starts": "2025-04-03T17:45:00Z",
+          "home": "Luke Humphries",
+          "away": "Rob Cross",
+          "rotNum": "2236",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588038714
+        }
+      ]
+    }
+  ]
+}

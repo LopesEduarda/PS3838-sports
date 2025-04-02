@@ -1,0 +1,268 @@
+{
+  "leagues": [
+    {
+      "id": 16305,
+      "name": "Light Minimumweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16302,
+      "name": "Minimumweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197164,
+      "name": "Olympics Heavyweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197166,
+      "name": "Olympics Flyweight - Women",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197161,
+      "name": "Olympics Welterweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16303,
+      "name": "Mini Flyweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16298,
+      "name": "Junior Bantamweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197157,
+      "name": "Olympics Flyweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197158,
+      "name": "Olympics Bantamweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 214503,
+      "name": "Olympics Featherweight - Women",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197162,
+      "name": "Olympics Middleweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197168,
+      "name": "Olympics Middleweight - Women",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16304,
+      "name": "Strawweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197167,
+      "name": "Olympics Lightweight - Women",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16306,
+      "name": "Atomweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 214504,
+      "name": "Olympics Welterweight - Women",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 16285,
+      "name": "Junior Heavyweight",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 214506,
+      "name": "Olympics Featherweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197165,
+      "name": "Olympics Super Heavyweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197159,
+      "name": "Olympics Lightweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197163,
+      "name": "Olympics Light Heavyweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197156,
+      "name": "Olympics Light Flyweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197047,
+      "name": "Boxing Matches",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 7
+    },
+    {
+      "id": 197160,
+      "name": "Olympics Light Welterweight - Men",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Olympics",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    }
+  ]
+}

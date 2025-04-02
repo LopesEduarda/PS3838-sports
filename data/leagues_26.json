@@ -1,0 +1,180 @@
+{
+  "leagues": [
+    {
+      "id": 148802,
+      "name": "City Country Challenge",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 1655,
+      "name": "Super League",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "United Kingdom",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 1,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208184,
+      "name": "Nines - Australia NRL",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Australia",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 230462,
+      "name": "Pacific Championship",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Asia Pacific",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 1654,
+      "name": "NRL",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "Australia",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 1,
+      "eventSpecialsCount": 0,
+      "eventCount": 8
+    },
+    {
+      "id": 7723,
+      "name": "Nines - Auckland",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "New Zealand",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 224356,
+      "name": "NRL - All Stars",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Australia",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 6549,
+      "name": "RFL - Challenge Cup",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "England",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 197900,
+      "name": "World - Four Nations",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "New Zealand",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 1653,
+      "name": "International Matches",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 192846,
+      "name": "World Club Series",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "New Zealand",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 224357,
+      "name": "NRL - Pre Season",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Australia",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 206939,
+      "name": "Nines - World Cup",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 10890,
+      "name": "World Club Challenge",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 6740,
+      "name": "World Cup",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 187660,
+      "name": "State of Origin",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "sportId": 8,
+  "last": 1743545436547,
+  "league": [
+    {
+      "id": 720,
+      "name": "India - Indian Premier League",
+      "events": [
+        {
+          "id": 1606840453,
+          "starts": "2025-04-05T10:00:00Z",
+          "home": "Chennai Super Kings",
+          "away": "Delhi Capitals",
+          "rotNum": "1152",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588365759
+        },
+        {
+          "id": 1606927635,
+          "starts": "2025-04-06T10:00:00Z",
+          "home": "Kolkata Knight Riders",
+          "away": "Lucknow Super Giants",
+          "rotNum": "1156",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588856308
+        },
+        {
+          "id": 1606973597,
+          "starts": "2025-04-07T14:00:00Z",
+          "home": "Mumbai Indians",
+          "away": "Royal Challengers Bangalore",
+          "rotNum": "1160",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589174834
+        },
+        {
+          "id": 1606932353,
+          "starts": "2025-04-06T14:00:00Z",
+          "home": "Sunrisers Hyderabad",
+          "away": "Gujarat Titans",
+          "rotNum": "1158",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588949927
+        },
+        {
+          "id": 1606611141,
+          "starts": "2025-04-02T14:00:00Z",
+          "home": "Royal Challengers Bangalore",
+          "away": "Gujarat Titans",
+          "rotNum": "1146",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589174805
+        },
+        {
+          "id": 1606689203,
+          "starts": "2025-04-03T14:00:00Z",
+          "home": "Kolkata Knight Riders",
+          "away": "Sunrisers Hyderabad",
+          "rotNum": "1148",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589285619
+        },
+        {
+          "id": 1606762046,
+          "starts": "2025-04-04T14:00:00Z",
+          "home": "Lucknow Super Giants",
+          "away": "Mumbai Indians",
+          "rotNum": "1150",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588108585
+        },
+        {
+          "id": 1606857018,
+          "starts": "2025-04-05T14:00:00Z",
+          "home": "Punjab Kings",
+          "away": "Rajasthan Royals",
+          "rotNum": "1154",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 588444670
+        },
+        {
+          "id": 1607010695,
+          "starts": "2025-04-08T14:00:00Z",
+          "home": "Punjab Kings",
+          "away": "Chennai Super Kings",
+          "rotNum": "1162",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589285706
+        }
+      ]
+    },
+    {
+      "id": 5347,
+      "name": "One Day International",
+      "events": [
+        {
+          "id": 1607050650,
+          "starts": "2025-04-04T22:00:00Z",
+          "home": "New Zealand",
+          "away": "Pakistan",
+          "rotNum": "1178",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589367133
+        }
+      ]
+    }
+  ]
+}

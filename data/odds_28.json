@@ -1,0 +1,115 @@
+{
+  "sportId": 28,
+  "last": 1743595254720,
+  "leagues": [
+    {
+      "id": 4591,
+      "events": [
+        {
+          "id": 1606983560,
+          "periods": [
+            {
+              "lineId": 3024257329,
+              "number": 0,
+              "cutoff": "2025-04-02T12:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T11:41:43.393Z",
+              "totalUpdatedAt": "2025-04-02T11:41:43.393Z",
+              "maxMoneyline": 1000,
+              "maxTotal": 1000,
+              "status": 1,
+              "moneyline": {
+                "home": -385,
+                "away": 275
+              },
+              "totals": [
+                {
+                  "points": 16.5,
+                  "over": 103,
+                  "under": -124
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1607021663,
+          "periods": [
+            {
+              "lineId": 3024231829,
+              "number": 0,
+              "cutoff": "2025-04-02T12:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T06:04:08.927Z",
+              "totalUpdatedAt": "2025-04-02T11:35:30.740Z",
+              "maxMoneyline": 1000,
+              "maxTotal": 1000,
+              "status": 1,
+              "moneyline": {
+                "home": -181,
+                "away": 146
+              },
+              "totals": [
+                {
+                  "points": 16.5,
+                  "over": -113,
+                  "under": -107
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1607050610,
+          "periods": [
+            {
+              "lineId": 3024327365,
+              "number": 0,
+              "cutoff": "2025-04-02T18:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T12:00:54.557Z",
+              "totalUpdatedAt": "2025-04-02T12:00:54.557Z",
+              "maxMoneyline": 1000,
+              "maxTotal": 1000,
+              "status": 1,
+              "moneyline": {
+                "home": 101,
+                "away": -123
+              },
+              "totals": [
+                {
+                  "points": 16.5,
+                  "over": -129,
+                  "under": 107
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1607042743,
+          "periods": [
+            {
+              "lineId": 3023009109,
+              "number": 0,
+              "cutoff": "2025-04-03T12:00:00Z",
+              "moneylineUpdatedAt": "2025-04-01T22:03:42.330Z",
+              "totalUpdatedAt": "2025-04-01T22:03:42.330Z",
+              "maxMoneyline": 250,
+              "maxTotal": 250,
+              "status": 1,
+              "moneyline": {
+                "home": -251,
+                "away": 195
+              },
+              "totals": [
+                {
+                  "points": 16.5,
+                  "over": -110,
+                  "under": -110
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

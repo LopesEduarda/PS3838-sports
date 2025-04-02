@@ -1,0 +1,403 @@
+{
+  "sportId": 26,
+  "last": 1743594902327,
+  "leagues": [
+    {
+      "id": 1654,
+      "events": [
+        {
+          "id": 1606749620,
+          "periods": [
+            {
+              "lineId": 3023017929,
+              "number": 0,
+              "cutoff": "2025-04-04T07:00:00Z",
+              "spreadUpdatedAt": "2025-04-01T22:10:40.993Z",
+              "moneylineUpdatedAt": "2025-04-01T22:10:40.993Z",
+              "totalUpdatedAt": "2025-04-01T22:10:40.993Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": -14,
+                  "home": -114,
+                  "away": -106
+                },
+                {
+                  "altLineId": 47406138777,
+                  "hdp": -14.5,
+                  "home": -105,
+                  "away": -115,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47406138778,
+                  "hdp": -13.5,
+                  "home": -124,
+                  "away": 102,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": -495,
+                "away": 333
+              },
+              "totals": [
+                {
+                  "points": 49.5,
+                  "over": -111,
+                  "under": -109
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606838638,
+          "periods": [
+            {
+              "lineId": 3023308190,
+              "number": 0,
+              "cutoff": "2025-04-05T06:30:00Z",
+              "spreadUpdatedAt": "2025-04-02T00:52:20.997Z",
+              "moneylineUpdatedAt": "2025-04-02T00:52:20.997Z",
+              "totalUpdatedAt": "2025-04-02T00:52:20.997Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": -6,
+                  "home": -103,
+                  "away": -118
+                },
+                {
+                  "altLineId": 47409006701,
+                  "hdp": -6.5,
+                  "home": 107,
+                  "away": -130,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47409006702,
+                  "hdp": -5.5,
+                  "home": -114,
+                  "away": -107,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": -184,
+                "away": 148
+              },
+              "totals": [
+                {
+                  "points": 52,
+                  "over": -110,
+                  "under": -110
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606840410,
+          "periods": [
+            {
+              "lineId": 3024309964,
+              "number": 0,
+              "cutoff": "2025-04-05T08:35:00Z",
+              "spreadUpdatedAt": "2025-04-02T11:55:02.047Z",
+              "moneylineUpdatedAt": "2025-04-02T11:55:02.047Z",
+              "totalUpdatedAt": "2025-04-02T11:55:02.047Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": -16,
+                  "home": -130,
+                  "away": 107
+                },
+                {
+                  "altLineId": 47418741133,
+                  "hdp": -16.5,
+                  "home": -119,
+                  "away": -102,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47418741134,
+                  "hdp": -15.5,
+                  "home": -140,
+                  "away": 115,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": -685,
+                "away": 421
+              },
+              "totals": [
+                {
+                  "points": 52,
+                  "over": -114,
+                  "under": -106
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606927499,
+          "periods": [
+            {
+              "lineId": 3023475362,
+              "number": 0,
+              "cutoff": "2025-04-06T08:15:00Z",
+              "spreadUpdatedAt": "2025-04-02T01:54:28.107Z",
+              "moneylineUpdatedAt": "2025-04-02T01:54:28.107Z",
+              "totalUpdatedAt": "2025-04-02T01:54:28.107Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": -6,
+                  "home": -103,
+                  "away": -117
+                },
+                {
+                  "altLineId": 47410791757,
+                  "hdp": -6.5,
+                  "home": 107,
+                  "away": -130,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47410791758,
+                  "hdp": -5.5,
+                  "home": -114,
+                  "away": -106,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": -203,
+                "away": 161
+              },
+              "totals": [
+                {
+                  "points": 45.5,
+                  "over": -109,
+                  "under": -111
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606753336,
+          "periods": [
+            {
+              "lineId": 3023765603,
+              "number": 0,
+              "cutoff": "2025-04-04T09:00:00Z",
+              "spreadUpdatedAt": "2025-04-02T08:16:49.950Z",
+              "moneylineUpdatedAt": "2025-04-02T08:16:49.950Z",
+              "totalUpdatedAt": "2025-04-02T08:16:49.950Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": -2,
+                  "home": -112,
+                  "away": -109
+                },
+                {
+                  "altLineId": 47413893841,
+                  "hdp": -2.5,
+                  "home": 103,
+                  "away": -125,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47413893842,
+                  "hdp": -1.5,
+                  "home": -128,
+                  "away": 106,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": -142,
+                "away": 116
+              },
+              "totals": [
+                {
+                  "points": 48,
+                  "over": -111,
+                  "under": -109
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606827433,
+          "periods": [
+            {
+              "lineId": 3021115127,
+              "number": 0,
+              "cutoff": "2025-04-05T04:00:00Z",
+              "spreadUpdatedAt": "2025-04-01T08:54:03.190Z",
+              "moneylineUpdatedAt": "2025-04-01T08:54:03.190Z",
+              "totalUpdatedAt": "2025-04-01T08:54:03.190Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": 4.5,
+                  "home": -110,
+                  "away": -110
+                },
+                {
+                  "altLineId": 47387386341,
+                  "hdp": 4,
+                  "home": 102,
+                  "away": -124,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47387386342,
+                  "hdp": 5,
+                  "home": -112,
+                  "away": -108,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": 142,
+                "away": -175
+              },
+              "totals": [
+                {
+                  "points": 48.5,
+                  "over": -110,
+                  "under": -110
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606921880,
+          "periods": [
+            {
+              "lineId": 3023201912,
+              "number": 0,
+              "cutoff": "2025-04-06T06:05:00Z",
+              "spreadUpdatedAt": "2025-04-02T00:07:26.017Z",
+              "moneylineUpdatedAt": "2025-04-02T00:07:26.017Z",
+              "totalUpdatedAt": "2025-04-02T00:07:26.017Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": 6,
+                  "home": -110,
+                  "away": -110
+                },
+                {
+                  "altLineId": 47407903949,
+                  "hdp": 5.5,
+                  "home": 100,
+                  "away": -121,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47407903950,
+                  "hdp": 6.5,
+                  "home": -122,
+                  "away": 101,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": 161,
+                "away": -202
+              },
+              "totals": [
+                {
+                  "points": 47.5,
+                  "over": -110,
+                  "under": -110
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1606669228,
+          "periods": [
+            {
+              "lineId": 3023507144,
+              "number": 0,
+              "cutoff": "2025-04-03T09:00:00Z",
+              "spreadUpdatedAt": "2025-04-02T02:07:02.383Z",
+              "moneylineUpdatedAt": "2025-04-02T02:07:02.383Z",
+              "totalUpdatedAt": "2025-04-02T02:07:02.383Z",
+              "maxSpread": 500,
+              "maxMoneyline": 500,
+              "maxTotal": 125,
+              "status": 1,
+              "spreads": [
+                {
+                  "hdp": 2.5,
+                  "home": -104,
+                  "away": -117
+                },
+                {
+                  "altLineId": 47411121469,
+                  "hdp": 2,
+                  "home": 111,
+                  "away": -134,
+                  "max": 500
+                },
+                {
+                  "altLineId": 47411121470,
+                  "hdp": 3,
+                  "home": -105,
+                  "away": -115,
+                  "max": 500
+                }
+              ],
+              "moneyline": {
+                "home": 130,
+                "away": -159
+              },
+              "totals": [
+                {
+                  "points": 47,
+                  "over": -110,
+                  "under": -110
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

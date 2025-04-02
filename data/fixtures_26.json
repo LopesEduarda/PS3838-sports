@@ -1,0 +1,124 @@
+{
+  "sportId": 26,
+  "last": 1743586866561,
+  "league": [
+    {
+      "id": 1654,
+      "name": "NRL",
+      "events": [
+        {
+          "id": 1606749620,
+          "starts": "2025-04-04T07:00:00Z",
+          "home": "Penrith Panthers",
+          "away": "North Queensland Cowboys",
+          "rotNum": "1570",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589153686
+        },
+        {
+          "id": 1606838638,
+          "starts": "2025-04-05T06:30:00Z",
+          "home": "Gold Coast Titans",
+          "away": "Redcliffe Dolphins",
+          "rotNum": "1576",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589377683
+        },
+        {
+          "id": 1606840410,
+          "starts": "2025-04-05T08:35:00Z",
+          "home": "Brisbane Broncos",
+          "away": "Wests Tigers",
+          "rotNum": "1578",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589377760
+        },
+        {
+          "id": 1606927499,
+          "starts": "2025-04-06T08:15:00Z",
+          "home": "Canterbury Bulldogs",
+          "away": "Newcastle Knights",
+          "rotNum": "1582",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589377860
+        },
+        {
+          "id": 1606753336,
+          "starts": "2025-04-04T09:00:00Z",
+          "home": "South Sydney Rabbitohs",
+          "away": "Sydney Roosters",
+          "rotNum": "1572",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589157417
+        },
+        {
+          "id": 1606827433,
+          "starts": "2025-04-05T04:00:00Z",
+          "home": "Parramatta Eels",
+          "away": "St George Illawarra Dragons",
+          "rotNum": "1574",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589252029
+        },
+        {
+          "id": 1606921880,
+          "starts": "2025-04-06T06:05:00Z",
+          "home": "Manly Sea Eagles",
+          "away": "Melbourne Storm",
+          "rotNum": "1580",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589377815
+        },
+        {
+          "id": 1606669228,
+          "starts": "2025-04-03T09:00:00Z",
+          "home": "Canberra Raiders",
+          "away": "Cronulla Sharks",
+          "rotNum": "1568",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589414321
+        }
+      ]
+    }
+  ]
+}

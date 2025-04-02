@@ -1,0 +1,96 @@
+{
+  "sportId": 9,
+  "last": 1743585896552,
+  "league": [
+    {
+      "id": 732,
+      "name": "World Championship",
+      "events": [
+        {
+          "id": 1607076571,
+          "starts": "2025-04-02T20:00:00Z",
+          "home": "Italy",
+          "away": "Austria",
+          "rotNum": "8234",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589413017
+        },
+        {
+          "id": 1607072365,
+          "starts": "2025-04-02T15:00:00Z",
+          "home": "Scotland",
+          "away": "Switzerland",
+          "rotNum": "8226",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589402079
+        },
+        {
+          "id": 1607071887,
+          "starts": "2025-04-02T15:00:00Z",
+          "home": "Norway",
+          "away": "Canada",
+          "rotNum": "8230",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589402077
+        },
+        {
+          "id": 1607072367,
+          "starts": "2025-04-02T15:00:00Z",
+          "home": "USA",
+          "away": "Sweden",
+          "rotNum": "8228",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589402080
+        },
+        {
+          "id": 1607071888,
+          "starts": "2025-04-02T15:00:00Z",
+          "home": "South Korea",
+          "away": "Japan",
+          "rotNum": "8232",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589402078
+        },
+        {
+          "id": 1607077015,
+          "starts": "2025-04-02T20:00:00Z",
+          "home": "China",
+          "away": "Czech Republic",
+          "rotNum": "8236",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589403447
+        }
+      ]
+    }
+  ]
+}

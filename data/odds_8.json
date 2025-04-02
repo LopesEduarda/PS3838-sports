@@ -1,0 +1,45 @@
+{
+  "sportId": 8,
+  "last": 1743601119125,
+  "leagues": [
+    {
+      "id": 720,
+      "events": [
+        {
+          "id": 1606611141,
+          "periods": [
+            {
+              "lineId": 3024674235,
+              "number": 0,
+              "cutoff": "2025-04-02T14:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:38:38.997Z",
+              "maxMoneyline": 750,
+              "status": 1,
+              "moneyline": {
+                "home": -125,
+                "away": 107
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606689203,
+          "periods": [
+            {
+              "lineId": 3023712510,
+              "number": 0,
+              "cutoff": "2025-04-03T14:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T06:27:30.847Z",
+              "maxMoneyline": 125,
+              "status": 1,
+              "moneyline": {
+                "home": 118,
+                "away": -138
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

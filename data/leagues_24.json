@@ -1,0 +1,147 @@
+{
+  "leagues": [
+    {
+      "id": 238483,
+      "name": "2024 Presidential Election USA - Special Props",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 198551,
+      "name": "German Election",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Germany",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 238486,
+      "name": "2024 Presidential Election USA - Trump Props",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 238488,
+      "name": "2024 Presidential Election USA - Counties",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 212277,
+      "name": "2024 Presidential Election USA",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 238485,
+      "name": "2024 Presidential Election USA - Popular Vote",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 263214,
+      "name": "Canadian Election",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "Canada",
+      "allowRoundRobins": true,
+      "leagueSpecialsCount": 1,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 219227,
+      "name": "Australian Federal Election",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Australia",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 238487,
+      "name": "2024 Presidential Election USA - Harris Props",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 223198,
+      "name": "2022 USA Election",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 240850,
+      "name": "South Korea President",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "South Korea",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 198552,
+      "name": "French Election",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "France",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 238484,
+      "name": "2024 Presidential Election USA - State Props",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "USA",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    }
+  ]
+}

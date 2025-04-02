@@ -1,0 +1,124 @@
+{
+  "sportId": 6,
+  "last": 1743520662592,
+  "league": [
+    {
+      "id": 197047,
+      "name": "Boxing Matches",
+      "events": [
+        {
+          "id": 1606950684,
+          "starts": "2025-04-05T10:00:00Z",
+          "home": "Anauel Ngamissengue",
+          "away": "Janibek Alimkhanuly",
+          "rotNum": "1451",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589293859
+        },
+        {
+          "id": 1606954525,
+          "starts": "2025-04-06T04:00:00Z",
+          "home": "Joey Spencer",
+          "away": "Tim Tszyu",
+          "rotNum": "1401",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589293836
+        },
+        {
+          "id": 1606950686,
+          "starts": "2025-04-13T01:00:00Z",
+          "home": "Eimantas Stanionis",
+          "away": "Jaron Ennis",
+          "rotNum": "1501",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589097921
+        },
+        {
+          "id": 1606950687,
+          "starts": "2025-04-13T01:00:00Z",
+          "home": "Thomas Mattice",
+          "away": "Ray Ford",
+          "rotNum": "1503",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589097980
+        },
+        {
+          "id": 1606585301,
+          "starts": "2025-04-05T21:00:00Z",
+          "home": "Joe Joyce",
+          "away": "Filip Hrgovic",
+          "rotNum": "1441",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589104608
+        },
+        {
+          "id": 1606585198,
+          "starts": "2025-04-06T02:00:00Z",
+          "home": "Guido Vianello",
+          "away": "Richard Torrez Jr",
+          "rotNum": "1411",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589104545
+        },
+        {
+          "id": 1606585406,
+          "starts": "2025-04-05T20:00:00Z",
+          "home": "Jeamie Tshikeva",
+          "away": "David Adeleye",
+          "rotNum": "1443",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589104666
+        },
+        {
+          "id": 1606585404,
+          "starts": "2025-04-06T01:00:00Z",
+          "home": "Elvis Rodriguez",
+          "away": "Lindolfo Delgado",
+          "rotNum": "1413",
+          "liveStatus": 0,
+          "status": "O",
+          "parlayRestriction": 2,
+          "altTeaser": false,
+          "resultingUnit": "Regular",
+          "betAcceptanceType": 0,
+          "version": 589104566
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+ID: 1    | Nome: Badminton            | hasOfferings: ❌
+ID: 2    | Nome: Bandy                | hasOfferings: ❌
+ID: 3    | Nome: Baseball             | hasOfferings: ✅
+ID: 4    | Nome: Basketball           | hasOfferings: ✅
+ID: 5    | Nome: Beach Volleyball     | hasOfferings: ❌
+ID: 6    | Nome: Boxing               | hasOfferings: ✅
+ID: 7    | Nome: Chess                | hasOfferings: ❌
+ID: 8    | Nome: Cricket              | hasOfferings: ✅
+ID: 9    | Nome: Curling              | hasOfferings: ✅
+ID: 10   | Nome: Darts                | hasOfferings: ✅
+ID: 13   | Nome: Field Hockey         | hasOfferings: ❌
+ID: 14   | Nome: Floorball            | hasOfferings: ❌
+ID: 15   | Nome: Football             | hasOfferings: ✅
+ID: 16   | Nome: Futsal               | hasOfferings: ❌
+ID: 17   | Nome: Golf                 | hasOfferings: ✅
+ID: 18   | Nome: Handball             | hasOfferings: ✅
+ID: 19   | Nome: Hockey               | hasOfferings: ✅
+ID: 20   | Nome: Horse Racing Specials | hasOfferings: ❌
+ID: 21   | Nome: Lacrosse             | hasOfferings: ❌
+ID: 22   | Nome: Mixed Martial Arts   | hasOfferings: ✅
+ID: 23   | Nome: Other Sports         | hasOfferings: ❌
+ID: 24   | Nome: Politics             | hasOfferings: ✅
+ID: 26   | Nome: Rugby League         | hasOfferings: ✅
+ID: 27   | Nome: Rugby Union          | hasOfferings: ✅
+ID: 28   | Nome: Snooker              | hasOfferings: ✅
+ID: 29   | Nome: Soccer               | hasOfferings: ✅
+ID: 30   | Nome: Softball             | hasOfferings: ❌
+ID: 31   | Nome: Squash               | hasOfferings: ❌
+ID: 32   | Nome: Table Tennis         | hasOfferings: ❌
+ID: 33   | Nome: Tennis               | hasOfferings: ✅
+ID: 34   | Nome: Volleyball           | hasOfferings: ✅
+ID: 36   | Nome: Water Polo           | hasOfferings: ❌
+ID: 37   | Nome: Padel Tennis         | hasOfferings: ❌
+ID: 39   | Nome: Aussie Rules         | hasOfferings: ❌
+ID: 40   | Nome: Alpine Skiing        | hasOfferings: ❌
+ID: 41   | Nome: Biathlon             | hasOfferings: ❌
+ID: 42   | Nome: Ski Jumping          | hasOfferings: ❌
+ID: 43   | Nome: Cross Country        | hasOfferings: ❌
+ID: 44   | Nome: Formula 1            | hasOfferings: ✅
+ID: 45   | Nome: Cycling              | hasOfferings: ❌
+ID: 46   | Nome: Bobsleigh            | hasOfferings: ❌
+ID: 47   | Nome: Figure Skating       | hasOfferings: ❌
+ID: 48   | Nome: Freestyle Skiing     | hasOfferings: ❌
+ID: 49   | Nome: Luge                 | hasOfferings: ❌
+ID: 50   | Nome: Nordic Combined      | hasOfferings: ❌
+ID: 51   | Nome: Short Track          | hasOfferings: ❌
+ID: 52   | Nome: Skeleton             | hasOfferings: ❌
+ID: 53   | Nome: Snow Boarding        | hasOfferings: ❌
+ID: 54   | Nome: Speed Skating        | hasOfferings: ❌
+ID: 55   | Nome: Olympics             | hasOfferings: ❌
+ID: 56   | Nome: Athletics            | hasOfferings: ❌
+ID: 57   | Nome: Crossfit             | hasOfferings: ❌
+ID: 58   | Nome: Entertainment        | hasOfferings: ❌
+ID: 59   | Nome: Archery              | hasOfferings: ❌
+ID: 60   | Nome: Drone Racing         | hasOfferings: ❌
+ID: 62   | Nome: Poker                | hasOfferings: ❌
+ID: 63   | Nome: Motorsport           | hasOfferings: ❌
+ID: 64   | Nome: Simulated Games      | hasOfferings: ❌
+ID: 65   | Nome: Sumo                 | hasOfferings: ❌
+ID: 66   | Nome: Slap Fighting        | hasOfferings: ❌

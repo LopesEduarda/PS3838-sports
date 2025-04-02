@@ -1,0 +1,130 @@
+{
+  "sportId": 6,
+  "last": 1743598911127,
+  "leagues": [
+    {
+      "id": 197047,
+      "events": [
+        {
+          "id": 1606950684,
+          "periods": [
+            {
+              "lineId": 3024567882,
+              "number": 0,
+              "cutoff": "2025-04-05T10:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:00:50.627Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 477,
+                "away": -696
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606954525,
+          "periods": [
+            {
+              "lineId": 3022340555,
+              "number": 0,
+              "cutoff": "2025-04-06T04:00:00Z",
+              "moneylineUpdatedAt": "2025-04-01T18:34:07.620Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 500,
+                "away": -740
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606950686,
+          "periods": [
+            {
+              "lineId": 3020227271,
+              "number": 0,
+              "cutoff": "2025-04-13T01:00:00Z",
+              "moneylineUpdatedAt": "2025-03-31T18:26:53.587Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 450,
+                "away": -646
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606585301,
+          "periods": [
+            {
+              "lineId": 3024570178,
+              "number": 0,
+              "cutoff": "2025-04-05T21:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T13:01:50.857Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 274,
+                "away": -355
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606585406,
+          "periods": [
+            {
+              "lineId": 3019272587,
+              "number": 0,
+              "cutoff": "2025-04-05T20:00:00Z",
+              "moneylineUpdatedAt": "2025-03-31T05:53:25.120Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 405,
+                "away": -565
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606585198,
+          "periods": [
+            {
+              "lineId": 3023705265,
+              "number": 0,
+              "cutoff": "2025-04-06T02:00:00Z",
+              "moneylineUpdatedAt": "2025-04-02T06:05:53.383Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 177,
+                "away": -215
+              }
+            }
+          ]
+        },
+        {
+          "id": 1606585404,
+          "periods": [
+            {
+              "lineId": 3020225539,
+              "number": 0,
+              "cutoff": "2025-04-06T01:00:00Z",
+              "moneylineUpdatedAt": "2025-03-31T18:26:08.493Z",
+              "maxMoneyline": 250,
+              "status": 1,
+              "moneyline": {
+                "home": 120,
+                "away": -143
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

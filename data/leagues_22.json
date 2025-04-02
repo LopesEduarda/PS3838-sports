@@ -1,0 +1,180 @@
+{
+  "leagues": [
+    {
+      "id": 208766,
+      "name": "Gorilla Fighting Championship",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 227521,
+      "name": "Rizin",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "Japan",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 203206,
+      "name": "MMA",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 1619,
+      "name": "Bellator",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": true,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 6231,
+      "name": "Glory 5",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": true,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208746,
+      "name": "Cage Warriors",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208806,
+      "name": "Submission Underground",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208194,
+      "name": "ONE Championship",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 1624,
+      "name": "UFC",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "World",
+      "allowRoundRobins": true,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 23
+    },
+    {
+      "id": 208185,
+      "name": "LFA",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208186,
+      "name": "Combate Americas",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 207442,
+      "name": "PFL",
+      "homeTeamType": "Team1",
+      "hasOfferings": true,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 8
+    },
+    {
+      "id": 208187,
+      "name": "Invicta",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208192,
+      "name": "CFFC",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 208193,
+      "name": "WXC",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    },
+    {
+      "id": 9494,
+      "name": "Titan",
+      "homeTeamType": "Team1",
+      "hasOfferings": false,
+      "container": "World",
+      "allowRoundRobins": false,
+      "leagueSpecialsCount": 0,
+      "eventSpecialsCount": 0,
+      "eventCount": 0
+    }
+  ]
+}
