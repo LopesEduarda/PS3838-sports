@@ -9,7 +9,7 @@ Este documento tem como objetivo comparar a estrutura de retorno do endpoint `GE
 ## 📌 Base de comparação
 
 - **Esporte base:** Futebol (⚽ sportId = 29)
-- **API utilizada:** `https://api.ps3838.com/v1/odds`
+- **API utilizada:** `https://api.ps3838.com/v3/odds`
 - **Campos de interesse:** `leagues[].events[].periods[]`
 - Foram analisados os campos presentes no `periods[]`, pois é onde estão as informações dos mercados de apostas (spread, moneyline, totals, etc.)
 
